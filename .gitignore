@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
