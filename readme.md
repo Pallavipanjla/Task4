@@ -43,8 +43,6 @@ node_modules/
 .DS_Store
 *.log
 6. Documentation
-Included markdown files explaining the Git workflow (workflow.md) and commands used (commands.md)
-
 Added this README.md to describe the project
 
 🧠 What I Learned
